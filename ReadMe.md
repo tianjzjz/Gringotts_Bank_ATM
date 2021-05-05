@@ -16,8 +16,7 @@
 
 ## Project Running Example
 
-< img src="https://github.com/tianjzjz/images/blob/main/readme1.jpeg" alt="image-20210210200440573" style="zoom:90%; float: left" />
-
+![readme1](https://github.com/tianjzjz/images/blob/main/readme1.jpeg)
 ---
 
 ## General Workflow of the Project
