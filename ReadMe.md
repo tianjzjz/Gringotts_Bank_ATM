@@ -16,7 +16,7 @@
 
 ## Project Running Example
 
-<img src="/Users/superkakayong/Desktop/MS Semester 2 - 2021 Spring/CS 611 OO Software Principles and Design/13 Week13 (Final Project)/Final Project/Design Drafts/8. Example Running Experience.jpeg" alt="8. Example Running Experience" style="zoom:150%;" />
+< img src="https://github.com/tianjzjz/images/blob/main/readme1.jpeg" alt="image-20210210200440573" style="zoom:90%; float: left" />
 
 ---
 
