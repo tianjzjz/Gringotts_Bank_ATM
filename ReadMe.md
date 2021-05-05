@@ -42,7 +42,7 @@ Pease read our **Object Design Document** for all the details of the **classes**
 
 1. **ATTENTION PLEASE!** The way that **IntelliJ** locates file directories is **different** from the way that **Mac Terminal** finds files!
 2. The name of our project folder is **BankATM**.
-3. If you are going to run the program via Mac Terminal, the first thing to do is to move folders named **Boss, Customers, and Icons** to the **/src** folder! So the final **/src** folder will look like this: <img src="/Users/superkakayong/Library/Application Support/typora-user-images/image-20210504210613523.png" alt="image-20210504210613523" style="zoom:47%;" />
+3. If you are going to run the program via Mac Terminal, the first thing to do is to move folders named **Boss, Customers, and Icons** to the **/src** folder! So the final **/src** folder will look like this:![readme2](https://github.com/tianjzjz/images/blob/main/readme2.jpeg)
 4. Open Terminal and type "cd " (notice that there is a  **whitespace** after "cd" !).
 5. Then **drag the project folder** to the terminal so that Mac can automatically complete the directory of that folder for you.
 6. Press "Enter". Now you are inside the newly created folder.
@@ -56,7 +56,7 @@ Pease read our **Object Design Document** for all the details of the **classes**
 ## Instructions on how to compile and run the program in [ IntelliJ IDEA ]
 
 1. Use IntelliJ IDEA CE to open the project folder (i.e. **BankATM**).
-2. If you are using the version that we uploaded to **GradeScope**, the project hierarchy should  have **no problem**. But please make sure to double-check that **Boss, Customers, and Icons** should be **one layer** outside of the **/src** folder while **BankAttributes**, **Data**, **GUI**, and **BankStarter.java** should be inside the **/src** folder! So the final project hiereachy will look like this:<img src="/Users/superkakayong/Library/Application Support/typora-user-images/image-20210504211454478.png" alt="image-20210504211454478" style="zoom:47%;" />
+2. If you are using the version that we uploaded to **GradeScope**, the project hierarchy should  have **no problem**. But please make sure to double-check that **Boss, Customers, and Icons** should be **one layer** outside of the **/src** folder while **BankAttributes**, **Data**, **GUI**, and **BankStarter.java** should be inside the **/src** folder! So the final project hiereachy will look like this:![readme3](https://github.com/tianjzjz/images/blob/main/readme3.jpeg)
 3. Click the "Run" button or press Control+R to run the project.
 4. Please note that you should have a **JDK** installed in you MacBook with version **1.8** (we have tried to run on **JDK 15** but **FAILED!!!**).
 
